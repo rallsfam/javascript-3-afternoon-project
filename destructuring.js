@@ -21,7 +21,7 @@ var carDetails = {
   Use object destructuring to save the property values from the object carDetails into new variables. 
 */
 
-//Code Here
+const { color, make, model, year } = carDetails;
 
 
 
@@ -34,7 +34,7 @@ var carDetails = {
 */
 
 function greeting( obj ) {
-  //Code Here
+
   
   // Do not edit the code below.
   return 'Hello, ' + title + ' ' + firstName + ' ' + lastName + '!';
@@ -53,7 +53,9 @@ function greeting( obj ) {
   Sum up the values and return the total number.
 */
 
-//Code Here
+function totalPopulation(obj) {
+
+}
 
 
 
@@ -85,7 +87,12 @@ function greeting( obj ) {
   Find the smallest number of the three and return that number.
 */
 
-//Code Here
+function largeNumbers ({first, second, third}) {
+var first = 5;
+var second = 6;
+var third = 7
+  return 
+}
 
 
 
@@ -97,6 +104,5 @@ function greeting( obj ) {
   Find the longest array and return that array.
 */
 
-//Code Here
 
 

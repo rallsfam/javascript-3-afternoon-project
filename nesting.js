@@ -50,9 +50,7 @@ var employees = [
     3. Return the updated employee array.
 */
 
-//Code Here
-
-
+let employeeUpdater = function()
 
 ////////// PROBLEM 2 //////////
 
@@ -68,8 +66,17 @@ var workplaceAccidents = [12, 56, 44, 3, 29, 56, 56, 3, 7, 12];
     3. Return the updated array.
 */
 
-//Code Here
-
+function removeDuplicates() {
+ 
+  for (let i = 0; i < 0; i++) {
+    // console.log(i)
+    for (let j = 0; j < 0; j++) {
+      console.log(i, j)
+    }
+  }
+  return workplaceAccidents;
+}
+  
 
 
 ////////// PROBLEM 3 //////////
@@ -96,9 +103,9 @@ var cat = {
     2. Assign fluffy2ndFriend the name of Fluffy's 2nd friend.
 */
 
-//Code Here
-var grumpyActivity;
-var fluffy2ndFriend;
+
+
+
 
 
 
@@ -144,9 +151,8 @@ var myCar = {
 
 ////////// PROBLEM 5 //////////
 
-// Do not edit the code below.
 var numsArr = [ [1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11]];
-// Do not edit the code above.
+
 
 /*
   Above is an array of arrays. Use two for loops.
@@ -158,5 +164,3 @@ var numsArr = [ [1, 2, 3, 4], [5, 6], [7, 8, 9, 10, 11]];
 */
 
 //Code Here
-
-
